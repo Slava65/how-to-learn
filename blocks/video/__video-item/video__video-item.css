@@ -1,0 +1,7 @@
+.video__video-item {
+  margin: 0 20px 0 0;
+}
+
+.video-item:last-of-type {
+  margin: 0;
+}
