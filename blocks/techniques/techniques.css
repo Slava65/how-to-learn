@@ -1,6 +1,3 @@
-@import url("../section-title/section-title.css");
-@import url("../section-subtitle/section-subtitle.css");
-
 .techniques {
   display: flex;
   flex-direction: column;
@@ -8,6 +5,3 @@
   width: 80%;
 }
 
-.cards__item:nth-child(3n+3) {
-  margin-right: 0;
-}
